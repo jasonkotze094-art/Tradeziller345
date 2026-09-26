@@ -1,0 +1,6 @@
+{
+  "name": "Tradeziller",
+  "description": "AI-powered Forex, Crypto, and Indices chart analysis and trading signals scanner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
